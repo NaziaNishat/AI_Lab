@@ -13,4 +13,5 @@
 [AirQualityIndexPredictionANN](AirQualityIndexPredictionANN.ipynb)<br />
 [HousePricePredictionANN](HousePricePredictionANN.ipynb)
 
-* Build a simple Text suggesting system using bayes theorem.<br />
+* Build a simple Text suggesting system using Naive Bayes theorem.<br />
+[TextPredictionSystemUsingNaiveBayes](TextPredictionSystemUsingNaiveBayes.ipynb)
